@@ -1,0 +1,10 @@
+node{
+  sh "echo hello"
+  git 'https://github.com/pythonkazuma/Jenkins_Practical_Guide_3rd_Edition.git'
+}
+
+
+build()
+static_code_analysis()
+//deploy_to dev  
+//deploy_to prod 
