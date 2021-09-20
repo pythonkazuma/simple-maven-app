@@ -1,6 +1,6 @@
 node{
   sh "echo hello"
-  git 'https://github.com/pythonkazuma/-simple-maven-app.git'
+  git 'https://github.com/pythonkazuma/simple-maven-app.git'
 }
 
 
