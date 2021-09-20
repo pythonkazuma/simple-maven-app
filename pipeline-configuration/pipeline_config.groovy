@@ -2,6 +2,7 @@ libraries{
     maven
     //gradle
     //sonarqube
+    //ansible
     
     sonarqube{
       scanner_version = "SonarScanner 4.6"
